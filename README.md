@@ -28,7 +28,7 @@
   </a> 
   &emsp;
   <a href="https://docs.microsoft.com/en-us/dotnet/php/" target="_blank"> 
-     <img alt="PHP" src="https://img.shields.io/badge/C%23%20-%23F7DF1E.svg?style=plastic&logo=csharp&logoColor=black">
+     <img alt="PHP" src="https://img.shields.io/badge/PHP-859bc9.svg?style=plastic&logo=php&logoColor=white">
    </a>
   &emsp;
   <a href="#">
@@ -111,5 +111,5 @@
 <p align="center">
 	<a href="SeifGti@proton.me"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1Seif"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.seif.tk"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Website"/></a>
+	<a href="https://www.seif.tk"><img src="https://img.shields.io/badge/website-%231877F2.svg?style=plastic&logo=internet&logoColor=white" alt="Website"/></a>
 </p>
