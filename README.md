@@ -57,6 +57,8 @@
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=plastic&logo=unreal-engine&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
+  &emsp;
+    <a href="www.debian.org">https://img.shields.io/badge/Debian-%23EA4335.svg?style=plastic&logo=debian&logoColor=white</a>
 </p>
 
  ### 👉 IDEs & Code editors
