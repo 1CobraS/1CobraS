@@ -57,8 +57,6 @@
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=plastic&logo=unreal-engine&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
-  &emsp;
-    <a href="www.debian.org">https://img.shields.io/badge/Debian-%23EA4335.svg?style=plastic&logo=debian&logoColor=white</a>
 </p>
 
  ### 👉 IDEs & Code editors
@@ -76,13 +74,15 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="www.ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="www.windows.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%2348B9C7.svg?style=plastic&&logo=kali-linux&logoColor=white" /></a>
+    <a href="www.kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-%2348B9C7.svg?style=plastic&&logo=kali-linux&logoColor=white" /></a>
+  &emsp;
+    <a href="www.debian.org"><img src="https://img.shields.io/badge/Debian-%23EA4335.svg?style=plastic&logo=debian&logoColor=white"/></a>
 </p>
 
 <br/>
