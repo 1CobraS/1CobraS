@@ -59,7 +59,7 @@
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ ### 👉 IDEs & Code editors
  
 <p align="center">
   &emsp;
