@@ -32,7 +32,8 @@
    </a>
   &emsp;
   <a href="#">
-     <img alt="JS" src="https://img.shields.io/badge/JS-a6ba00.svg?style=plastic&logo=javascript&logoColor=white">
+     <img alt="JS"
+ src="https://img.shields.io/badge/JS-a6ba00.svg?style=plastic&logo=javascript&logoColor=white">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -94,7 +95,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cobra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SweetKraken&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Skylar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SweetKraken&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CobraS&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Seif" height="192px"/>
@@ -103,7 +104,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/1Seif"><img alt="1Seif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1Seif&custom_title=Seif's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Skylar11D"><img alt="Skylar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Skylar11D&custom_title=Skylar's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -111,7 +112,7 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-	<a href="SeifC@proton.me"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="*****@proton.me"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1CobraS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.seif.tk"><img src="https://img.shields.io/badge/website-%231877F2.svg?style=plastic&logo=internet&logoColor=white" alt="Website"/></a>
+	<a href="https://www.skylar11d.dev"><img src="https://img.shields.io/badge/website-%231877F2.svg?style=plastic&logo=internet&logoColor=white" alt="Website"/></a>
 </p>
