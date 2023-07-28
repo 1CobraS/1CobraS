@@ -111,7 +111,7 @@
 
 <br/>
 
-## Contact with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Contact me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
 	<a href="skylar11d@aol.com"><img img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1CobraS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
