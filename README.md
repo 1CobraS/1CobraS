@@ -70,6 +70,8 @@
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23ffffff.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8275d3.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="VSCodium" src"https://img.shields.io/badge/VSCodium-%23ffffff?logo=vscodium&logoColor=%23059ef7&color=%23030303"></a>
 </p>
 
  ### 👉 Operating Systems
