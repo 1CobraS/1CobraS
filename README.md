@@ -72,6 +72,8 @@
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8275d3.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-%23ffffff?logo=vscodium&logoColor=%23059ef7&color=%23030303"></a>
+&emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%2324004f?logo=eclipse&logoColor=%23f7b705&color=%2324004f"></a>
 </p>
 
  ### 👉 Operating Systems
