@@ -58,6 +58,8 @@
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=plastic&logo=unreal-engine&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23f70505?logo=redis&color=%23030303"></a>
 </p>
 
  ### 👉 IDEs & Code editors
@@ -111,6 +113,6 @@
 	<a href="*****@proton.me"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1CobraS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.skylar11d.dev"><img src="https://img.shields.io/badge/website-%231877F2.svg?style=plastic&logo=internet&logoColor=white" alt="Website"/></a>
-        <a href="https://www.fiverr.com/s/3L16QA"><img src="https://img.shields.io/badge/fiverr-%2300ffbb?logo=fiverr" alt="Website"/></a>
+        <a href="https://www.fiverr.com/s/3L16QA"><img src="https://img.shields.io/badge/fiverr-%23030303?logo=fiverr" alt="Website"/></a>
 
 </p>
