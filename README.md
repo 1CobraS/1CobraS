@@ -33,7 +33,8 @@
   &emsp;
   <a href="#">
      <img alt="JS"
- src="https://img.shields.io/badge/JS-a6ba00.svg?style=plastic&logo=javascript&logoColor=white">
+ src="https://img.shields.io/badge/JavaScript-%23ffffff?logo=javascript&color=%23030303
+">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -110,7 +111,7 @@
 
 ## Contact with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-	<a href="*****@proton.me"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="skylar11d@aol.com"><img img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1CobraS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.skylar11d.dev"><img src="https://img.shields.io/badge/website-%231877F2.svg?style=plastic&logo=internet&logoColor=white" alt="Website"/></a>
         <a href="https://www.fiverr.com/s/3L16QA"><img src="https://img.shields.io/badge/fiverr-%23030303?logo=fiverr" alt="Website"/></a>
