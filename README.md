@@ -32,9 +32,7 @@
    </a>
   &emsp;
   <a href="#">
-     <img alt="JS"
- src="https://img.shields.io/badge/JavaScript-%23ffffff?logo=javascript&color=%23030303
-">
+     <img alt="JS" src="https://img.shields.io/badge/JavaScript-%23ffffff?logo=javascript&color=%23030303">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
