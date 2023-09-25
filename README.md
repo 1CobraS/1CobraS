@@ -56,6 +56,8 @@
   &emsp;
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=plastic&logo=unreal-engine&logoColor=white"></a>
   &emsp;
+    <a href="#"><img lat="Vim" src="https://img.shields.io/badge/Vim-lightGreen?logo=vim"></a>
+  &emsp;
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23f70505?logo=redis&color=%23030303"></a>
