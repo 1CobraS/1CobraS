@@ -91,6 +91,8 @@
     <a href="www.windows.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="www.debian.org"><img src="https://img.shields.io/badge/Debian-%23EA4335.svg?style=plastic&logo=debian&logoColor=white"/></a>
+  &emsp;
+    <a href="www.debian.org"><img src="https://img.shields.io/badge/archlinux-%23f70505?logo=archlinux&color=%23030303"/></a>
 </p>
 
 <br/>
