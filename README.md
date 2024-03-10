@@ -38,6 +38,10 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.docker.com" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%23f70505?logo=docker&color=%23030303">
+  </a>
 </p>
 
  ### 👉 Software & Tools
