@@ -65,6 +65,10 @@
   <a href="https://www.docker.com" target="_blank"> 
     <img alt="Docker" src="https://img.shields.io/badge/docker-%23f70505?logo=docker&color=%23030303">
   </a>
+   &emsp;
+  <a href="https://www.gnu.org/" target="_blank"> 
+    <img alt="GNU" src="https://img.shields.io/badge/GNU-%23000000.svg?style=plastic&logo=gnu&logoColor=white">
+  </a>
 </p>
 
  ### 👉 IDEs & Code editors
@@ -86,7 +90,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="https://www.windows.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
