@@ -38,10 +38,6 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://www.docker.com" target="_blank"> 
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%23f70505?logo=docker&color=%23030303">
-  </a>
 </p>
 
  ### 👉 Software & Tools
@@ -65,6 +61,10 @@
     <a href="#"><img alt="SFML" src="https://img.shields.io/badge/SFML-00bf5a.svg?style=plastic&logo=sfml&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23f70505?logo=redis&color=%23030303"></a>
+  &emsp;
+  <a href="https://www.docker.com" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%23f70505?logo=docker&color=%23030303">
+  </a>
 </p>
 
  ### 👉 IDEs & Code editors
