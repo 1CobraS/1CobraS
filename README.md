@@ -124,6 +124,9 @@
 <br/>
 
 ## Contact me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="skylar-karmy-189bb22b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/skylar-karmy-189bb22b0?trk=profile-badge">Skylar Karmy</a></div>
+              
+
 <p align="center">
 	<a href="skylar11d@aol.com"><img img src="https://img.shields.io/badge/email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/1CobraS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
