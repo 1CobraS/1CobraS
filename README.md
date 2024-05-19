@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Skylar 👋
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" align="left" />
+<img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />
 
 <div align="center">
   <h2>🚀 About Me</h2>
