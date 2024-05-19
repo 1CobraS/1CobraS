@@ -1,29 +1,63 @@
-# Hi there, I'm Skylar. 👋
+# Hi there, I'm [Your Name] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=skylar11d&color=blue)
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" align="left" />
 
-## 🚀 About Me
-- 👨‍💻 Lead Java Software Developer & System Administrator.
-- 🌱 Currently learning **c++, kotlin and networking security & infrastructure**.
-- 💬 Ask me about **Java, System Administration, Cloud Computing, Linux**.
-- 📫 Reach me at: [Skylar11D@aol.com] or https://www.skylar11d.xyz/.
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>Lead Java Software Developer & System Administrator</p>
+  <ul>
+    <li>🌱 Currently learning <strong>[Kotlin]</strong></li>
+    <li>💬 Ask me about <strong>Java, System Administration, Cloud Computing, Linux, Algorithms</strong></li>
+    <li>📫 Reach me at: <a href="mailto:skylar11d@aol.com">skylar11d@aol.com</a> | <a href="https://linkedin.com/in/skylar11d">LinkedIn</a></li>
+  </ul>
+</div>
 
-## 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<style>
+  .skills, .projects, .contact {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  .skills img, .projects img, .contact img {
+    margin: 0 10px;
+  }
+  .projects img {
+    width: 300px;
+  }
+</style>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skylar11d&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylar11d&layout=compact&theme=radical)
+<div align="center" class="skills">
+  <h2>🛠️ Skills</h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-## 💼 Projects
-- **[TNTRUB](https://github.com/skylar11d/MINECRAFT-TNTRUN1)**: Basic minigame plugin for minecraft multiplayer servers.
-- **[Lobby](https://github.com/skylar11d/MINECRAFT-LOBBY)**: Small lobby system plugin for also minecraft multiplayer servers.
-- **[MMORPG](https://github.com/CosmoByteLLC)**: Massive Multiplayer Online Role-Playing Game implementation as papermc-api based plugin. _(under development)_
+<div align="center" class="projects">
+  <h2>💼 Open-Source Projects</h2>
+  <a href="https://github.com/skylar11d/MINECRAFT-TNTRUN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-tntrub&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/skylar11d/MINECRAFT-LOBBY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-lobby&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/cosmobytellc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=mmorpg&theme=tokyonight" />
+  </a>
+</div>
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-karmy/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skylar11d)
+<div align="center" class="contact">
+  <h2>📫 Connect with Me</h2>
+  <a href="https://linkedin.com/in/skylar11d">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/skylar11d">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
-⭐️ From [Skylar](https://github.com/skylar11d)
+---
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/skylar11d">[Skylar]</a>
+</div>
