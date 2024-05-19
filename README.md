@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-<style>
+<!--<style>
   .skills, .projects, .contact {
     display: flex;
     justify-content: center;
@@ -24,7 +24,7 @@
   .projects img {
     width: 300px;
   }
-</style>
+</style>-->
 
 <div align="center" class="skills">
   <h2>🛠️ Skills</h2>
@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/skylar11d">[Skylar]</a>
+  ⭐️ From <a href="https://github.com/skylar11d">Skylar</a>
 </div>
