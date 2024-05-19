@@ -18,9 +18,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylar11d&layout=compact&theme=radical)
 
 ## 💼 Projects
-- **[Project 1](https://github.com/skylar11d/project1)**: Brief description.
-- **[Project 2](https://github.com/skylar11d/project2)**: Brief description.
-- **[Project 3](https://github.com/skylar11d/project3)**: Brief description.
+- **[TNTRUB](https://github.com/skylar11d/MINECRAFT-TNTRUN1)**: Basic minigame plugin for minecraft multiplayer servers.
+- **[Lobby](https://github.com/skylar11d/MINECRAFT-LOBBY)**: Small lobby system plugin for also minecraft multiplayer servers.
+- **[MMORPG](https://github.com/CosmoByteLLC)**: Massive Multiplayer Online Role-Playing Game implementation as papermc-api based plugin.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-karmy/)
