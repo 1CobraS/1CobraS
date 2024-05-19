@@ -26,4 +26,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-karmy/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skylar11d)
 
-⭐️ From [Your Name](https://github.com/skylar11d)
+⭐️ From [Skylar](https://github.com/skylar11d)
