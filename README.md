@@ -20,7 +20,7 @@
 ## 💼 Projects
 - **[TNTRUB](https://github.com/skylar11d/MINECRAFT-TNTRUN1)**: Basic minigame plugin for minecraft multiplayer servers.
 - **[Lobby](https://github.com/skylar11d/MINECRAFT-LOBBY)**: Small lobby system plugin for also minecraft multiplayer servers.
-- **[MMORPG](https://github.com/CosmoByteLLC)**: Massive Multiplayer Online Role-Playing Game implementation as papermc-api based plugin.
+- **[MMORPG](https://github.com/CosmoByteLLC)**: Massive Multiplayer Online Role-Playing Game implementation as papermc-api based plugin. _(under development)_
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-karmy/)
