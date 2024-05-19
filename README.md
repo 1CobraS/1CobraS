@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />
 
 <div align="center">
-  <h2 style="background-color: red;">🚀 About Me</h2>
+  <h2 style="position: relative; left: 5em;">🚀 About Me</h2>
   <p>Lead Java Software Developer & System Administrator</p>
   <ul>
     <li>🌱 Currently learning <strong>[Kotlin]</strong></li>
