@@ -3,10 +3,10 @@
 <img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />
 
 <div align="center">
-  <h2 style="position:relative; left: 5em">🚀 About Me</h2>
+  <h2 style="position:relative; left: 5em;">🚀 About Me</h2>
   <p>Lead Java Software Developer & System Administrator</p>
   <ul>
-    <li>🌱 Currently learning <strong>[Kotlin]</strong></li>
+    <li>🌱 Currently learning <strong>Kotlin, C++ and Network security & infrastructure</strong></li>
     <li>💬 Ask me about <strong>Java, System Administration, Cloud Computing, Linux, Algorithms</strong></li>
     <li>📫 Reach me at: <a href="mailto:skylar11d@aol.com">skylar11d@aol.com</a> | <a href="https://linkedin.com/in/skylar11d">LinkedIn</a></li>
   </ul>
