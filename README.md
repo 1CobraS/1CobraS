@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-2496ED?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
 </div>
 
 <div align="center" class="projects">
