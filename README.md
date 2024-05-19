@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 style="position:relative; left: 2em;">🚀 A few about me</h2>
-  <p>Lead Java Software Developer & System Administrator</p>
+  <p>Java Software Developer & System Administrator</p>
   <ul>
     <li>🌱 Currently learning <strong>Kotlin, C++ and Network security & infrastructure</strong></li>
     <li>💬 Ask me about <strong>Java, System Administration, Cloud Computing, Linux, Algorithms</strong></li>
