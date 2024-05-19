@@ -1,4 +1,4 @@
-# Hi there, I'm Skylar 👋
+# Hello there, This is Skylar 👋
 
 <!--<img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />-->
 
