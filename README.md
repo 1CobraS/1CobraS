@@ -1,6 +1,6 @@
 # Hi there, I'm Skylar 👋
 
-<img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />
+<!--<img src="https://komarev.com/ghpvc/?username=skylar11d&color=brightgreen" align="left" />-->
 
 <div align="center">
   <h2 style="position:relative; left: 2em;">🚀 A few about me</h2>
