@@ -36,7 +36,7 @@
 <div align="center" class="projects">
   <h2>💼 Open-Source Projects</h2>
   <a href="https://github.com/skylar11d/MINECRAFT-TNTRUN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-tntrub&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-tntrun&theme=tokyonight" />
   </a>
   <a href="https://github.com/skylar11d/MINECRAFT-LOBBY">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-lobby&theme=tokyonight" />
