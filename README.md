@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=minecraft-lobby&theme=tokyonight" />
   </a>
   <a href="https://github.com/skylar11d/web-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=mmorpg&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skylar11d&repo=web-server&theme=tokyonight" />
   </a>
 </div>
 
