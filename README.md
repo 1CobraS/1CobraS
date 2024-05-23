@@ -5,6 +5,7 @@
 <div align="center">
   <h2 style="position:relative; left: 2em;">🚀 A few about me</h2>
   <p>Java Software Developer & System Administrator</p>
+  <p>Creator of <a href="https://www.github.com/cosmobytellc">CosmoByte</a> </p>
   <ul>
     <li>🌱 Currently learning <strong>Kotlin, C++ and Network security & infrastructure</strong></li>
     <li>💬 Ask me about <strong>Java, System Administration, Cloud Computing, Linux, Algorithms</strong></li>
