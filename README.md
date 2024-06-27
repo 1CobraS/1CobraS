@@ -48,7 +48,7 @@
 
 <div align="center" class="contact">
   <h2>📫 Connect with Me</h2>
-  <a href="https://linkedin.com/in/skylar11d">
+  <a href="https://linkedin.com/in/skylar-karmy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/skylar11d">
