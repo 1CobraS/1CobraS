@@ -5,7 +5,7 @@
   <p>Java Software Developer & System Administrator</p>
   <p>Creator of <a href="https://www.github.com/cosmobytellc">CosmoByte</a> </p>
   <ul>
-    <li>🌱 Currently learning <strong>Kotlin, C++ and Network security & infrastructure</strong></li>
+    <li>🌱 Currently learning <strong>Rust, C++ and Network security & infrastructure</strong></li>
     <li>💬 Ask me about <strong>Java, Systems, Cloud Computing, Linux, Algorithms</strong></li>
     <li>📫 Reach me at: <a href="mailto:skylar11d@aol.com">skylar11d@aol.com</a> | <a href="https://linkedin.com/in/skylar11d">LinkedIn</a></li>
   </ul>
