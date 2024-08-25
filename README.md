@@ -8,6 +8,7 @@
     <li>🌱 Currently learning <strong>Rust, C++ and Network security & infrastructure</strong></li>
     <li>💬 Ask me about <strong>Java, Systems, Cloud Computing, Linux, Algorithms</strong></li>
     <li>📫 Reach me at: <a href="mailto:skylar11d@aol.com">skylar11d@aol.com</a> | <a href="https://linkedin.com/in/skylar11d">LinkedIn</a></li>
+    <strong>Note: some old repositories may be archived due to being outdated</strong>
   </ul>
 </div>
 
